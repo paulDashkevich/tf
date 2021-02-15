@@ -14,7 +14,7 @@ terraform {
 }
 
 provider "ah" {
-	access_token = "1xvZdwryhcdhFsN4rh8aU1hE"
+	access_token = "*******"
 }
 
 resource "ah_cloud_server" "nginx" {
